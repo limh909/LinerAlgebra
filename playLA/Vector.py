@@ -2,6 +2,7 @@
 from ._global import EPSILON
 import math
 
+
 class Vector:
 
     def __init__(self, lst):
